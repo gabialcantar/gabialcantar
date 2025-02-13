@@ -4,12 +4,12 @@
 💻 **Apaixonada por tecnologia** e desenvolvimento de software.  
 
 ## 🛠️ Habilidades  
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) **C#**  
-- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) **C**  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**  
-- ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) **Swift**  
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML**  
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS**  
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) **React**  
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
+- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) 
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
 
 🚀 Sempre em busca de aprendizado e novos desafios no mundo da programação!  
