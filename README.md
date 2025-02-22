@@ -4,7 +4,7 @@
 💻 **Apaixonada por tecnologia** e desenvolvimento de software.  
 
 ## 🛠️ Habilidades  
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
+ ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
 - ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) 
